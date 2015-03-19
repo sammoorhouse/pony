@@ -1,5 +1,12 @@
 {
-    "scripts": {
-        "test": "mocha test"
-    }
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sammoorhouse/pony.git"
+  },
+  "dependencies": {
+    "chai": "^2.1.2"
+  }
 }
